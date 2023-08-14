@@ -1,6 +1,6 @@
 # HTML CSS 特效示例代码库
 
-Demo 演示： [https://butterflyjay.github.io/](https://butterflyjay.github.io/)
+Demo 演示： [https://butterflyjay.github.io/html-css-demo](https://butterflyjay.github.io/html-css-demo)
 
 每个文件夹下即对应各个特效的源代码，包括但不限于：
 
